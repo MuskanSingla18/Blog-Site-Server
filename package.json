@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "blog-server",
   "version": "1.0.0",
   "description": "Blog-site",
   "main": "app.js",
